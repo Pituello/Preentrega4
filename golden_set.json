@@ -1,0 +1,10 @@
+[
+  {"pregunta": "¿En qué colores viene el Tera?", "documento_id_esperado": "tera.md"},
+  {"pregunta": "¿Cuál es el nombre en clave de la sucesora de la Saveiro?", "documento_id_esperado": "saveiro.pdf"},
+  {"pregunta": "¿Con qué nombre se comercializa el Taos en China?", "documento_id_esperado": "taos.md"},
+  {"pregunta": "¿Por qué Volkswagen dejó de fabricar el Vento en la mayoría de los mercados?", "documento_id_esperado": "vento.md"},
+  {"pregunta": "¿Cuántas estrellas obtuvo el Polo en la evaluación Latin NCAP de 2022?", "documento_id_esperado": "polo.md"},
+  {"pregunta": "¿Qué auto fue el primero desarrollado íntegramente en Latinoamérica que después se produjo también en Europa?", "documento_id_esperado": "nivus.md"},
+  {"pregunta": "¿Qué capacidad de baúl tiene la versión sedán del Polo?", "documento_id_esperado": "virtus.md"},
+  {"pregunta": "¿Con qué nombre se vende el Tera en Sudáfrica?", "documento_id_esperado": "tera.md"}
+]

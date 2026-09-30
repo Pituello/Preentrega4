@@ -1,0 +1,19 @@
+pinecone>=6,<8
+langchain-pinecone>=0.2.13
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-classic
+langchain-huggingface
+sentence-transformers
+rank_bm25
+tiktoken
+pypdf
+pydantic
+python-dotenv
+loguru
+
+# Solo para la generación opcional (python main.py --responder)
+langchain-openai
+langchain-anthropic
+langchain-google-genai
